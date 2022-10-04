@@ -27,3 +27,7 @@ No complicated interface allowed. Big ones should be separated into multiple sma
 * High-level modules should not depend on low-level modules. Both should depend on abstractions.
 * Abstractions should not depend on details. Details should depend on abstractions.
 
+## DRY
+
+"Don't repeat yourself."
+
