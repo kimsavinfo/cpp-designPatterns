@@ -53,3 +53,10 @@ cd ~/Downloads
 sudo rm -rf cmake-3.20.0
 rm -rf cmake-3.20.0.tar.gz
 ```
+
+### Boost
+
+````
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew install boost
+```

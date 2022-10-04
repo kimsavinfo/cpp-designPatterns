@@ -1,5 +1,4 @@
 #include <iostream>
-
 #include "PointFactory.hpp"
 #include "DrinkFactory.hpp"
 
