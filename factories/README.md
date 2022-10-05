@@ -1,3 +1,6 @@
+# Factories
+
+Produce families of related objects without specifying their concrete classes.
 
 ## With CMAKE / Without IDE
 ````

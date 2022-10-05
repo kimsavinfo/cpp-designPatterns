@@ -1,3 +1,6 @@
+# Adpater
+
+Objects with incompatible interfaces to collaborate.
 
 ## With CMAKE / Without IDE
 ````

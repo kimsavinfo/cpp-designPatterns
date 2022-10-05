@@ -1,4 +1,6 @@
+# Prototype
 
+Copy existing objects without making the code dependent on their classes.
 
 ## With CMAKE / Without IDE
 ````
