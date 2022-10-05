@@ -14,7 +14,7 @@ int main(int ac, char* av[]) {
         << " and a maximum stat of "
         << creature.max()
         << std::endl;
-
+    
     
     Group root("root");
     Circle c1, c2;
